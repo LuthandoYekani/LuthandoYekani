@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Luthando Yekani 👋
 
-<!--
-**LuthandoYekani/LuthandoYekani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student | AWS Cloud Learner | Networking Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about cybersecurity, networking, cloud computing and continuous learning. This GitHub showcases my practical labs, projects and documentation as I develop my skills in defensive security, cloud technologies and network administration.
+
+---
+
+## About Me
+
+- Studying Cybersecurity
+- Learning AWS Cloud
+- Building hands-on networking projects
+- Practising ethical hacking in home lab environments
+- Constantly improving my Linux and scripting skills
+
+---
+
+## Current Learning
+
+- AWS Cloud
+- Cisco Networking
+- Kali Linux
+- Nmap
+- Wireshark
+- Python
+- Network Security
+
+---
+
+## Technical Skills
+
+### Networking
+- TCP/IP
+- Subnetting
+- VLANs
+- DHCP
+- DNS
+- Static Routing
+- Cisco IOS
+
+### Cybersecurity
+- Nmap
+- Wireshark
+- Linux
+- Vulnerability Assessment
+- Risk Assessment
+- Network Reconnaissance
+
+### Cloud
+- AWS IAM
+- EC2
+- VPC
+- Security Groups
+
+### Programming
+
+Currently learning:
+
+- Python
+- Bash
+
+---
+
+## Current Portfolio Projects
+
+- Cybersecurity Portfolio
+- Packet Tracer Labs
+- Networking Projects
+- Kali Linux Notes
+- Nmap Labs
+- Wireshark Analysis
+- AWS Cloud Security
+- Risk Assessments
+- Technical Writeups
+
+---
+
+## Career Goal
+
+To begin my professional career as a Cybersecurity Analyst where I can continue learning while helping organisations improve their security posture.
+
+---
+
+Thanks for visiting my profile.
