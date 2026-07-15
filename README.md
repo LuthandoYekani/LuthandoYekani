@@ -1,5 +1,10 @@
 # Hi, I'm Luthando Yekani 👋
-
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+![Linux](https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
 ## Cybersecurity Student | AWS Cloud Learner | Networking Enthusiast
 
 Welcome to my GitHub portfolio.
