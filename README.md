@@ -90,3 +90,10 @@ To begin my professional career as a Cybersecurity Analyst where I can continue 
 ---
 
 Thanks for visiting my profile.
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuthandoYekani&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoYekani&layout=compact)
