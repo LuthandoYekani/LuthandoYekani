@@ -82,6 +82,7 @@ Currently learning:
 - Technical Writeups
 
 ---
+
 ## Currently Working On
 
 - Building a Cybersecurity Portfolio
@@ -91,7 +92,9 @@ Currently learning:
 - Network Security Labs
 - Vulnerability Assessments
 - GitHub Portfolio Development
-  
+
+---
+
 ## Career Goal
 
 To begin my professional career as a Cybersecurity Analyst where I can continue learning while helping organisations improve their security posture.
