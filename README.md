@@ -13,6 +13,14 @@ I am passionate about cybersecurity, networking, cloud computing and continuous 
 
 ---
 
+## 🚀 Featured Portfolio
+
+📂 **Cybersecurity Portfolio**
+
+A collection of hands-on networking, Linux, cloud security and cybersecurity projects.
+
+➡️ https://github.com/LuthandoYekani/Cybersecurity-Portfolio
+
 ## About Me
 
 - Studying Cybersecurity
