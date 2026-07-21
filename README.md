@@ -1,119 +1,169 @@
-# Hi, I'm Luthando Yekani 👋
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
-![Linux](https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
-## Cybersecurity Student | AWS Cloud Learner | Networking Enthusiast
+<h1 align="center">Hi 👋, I'm Luthando Yekani</h1>
 
-Welcome to my GitHub portfolio.
+<h3 align="center">Aspiring Cybersecurity Analyst | Networking | Cloud Security | Linux | AWS</h3>
 
-I am passionate about cybersecurity, networking, cloud computing and continuous learning. This GitHub showcases my practical labs, projects and documentation as I develop my skills in defensive security, cloud technologies and network administration.
+<p align="center">
+Building practical cybersecurity skills through hands-on laboratories, enterprise networking projects, cloud security, and technical documentation.
+</p>
 
 ---
 
-## 🚀 Featured Portfolio
+## 👨‍💻 About Me
 
-📂 **Cybersecurity Portfolio**
-
-A collection of hands-on networking, Linux, cloud security and cybersecurity projects.
-
-➡️ https://github.com/LuthandoYekani/Cybersecurity-Portfolio
-
-## About Me
-
-- Studying Cybersecurity
-- Learning AWS Cloud
-- Building hands-on networking projects
-- Practising ethical hacking in home lab environments
-- Constantly improving my Linux and scripting skills
+- 🇿🇦 Based in South Africa
+- 🛡️ Aspiring Cybersecurity Analyst
+- 🌐 Passionate about Network Security and Cloud Security
+- ☁️ Currently expanding my AWS security knowledge
+- 🐧 Daily Linux user (Kali & Ubuntu)
+- 📚 Always learning through practical labs and real-world projects
 
 ---
 
-## Current Learning
+## 🚀 Current Focus
 
-- AWS Cloud
-- Cisco Networking
-- Kali Linux
-- Nmap
-- Wireshark
-- Python
+- Security Operations Centre (SOC)
 - Network Security
+- Threat Detection
+- Cloud Security (AWS)
+- Digital Forensics
+- Python for Cybersecurity
+- Security Automation
 
 ---
 
-## Technical Skills
+## 📂 Featured Repository
+
+### 🛡️ Cybersecurity Portfolio
+
+A growing collection of practical cybersecurity projects including:
+
+- 🌐 Enterprise Full Mesh Network
+- 🔒 Enterprise VLAN Setup & Network Security
+- 📡 Wireshark Network Traffic Analysis
+- 🛡️ IDS & ACL Security
+- ☁️ AWS Cloud Security Labs *(In Progress)*
+- 🔍 Nmap Reconnaissance Labs *(In Progress)*
+
+➡️ **Repository**
+
+https://github.com/LuthandoYekani/Cybersecurity-Portfolio
+
+---
+
+## 💼 Technical Skills
 
 ### Networking
-- TCP/IP
-- Subnetting
+
+- Cisco Packet Tracer
+- Routing & Switching
 - VLANs
-- DHCP
-- DNS
 - Static Routing
-- Cisco IOS
+- ACLs
+- Port Security
+- SSH
 
 ### Cybersecurity
-- Nmap
+
 - Wireshark
-- Linux
-- Vulnerability Assessment
-- Risk Assessment
-- Network Reconnaissance
+- Snort IDS
+- Nmap
+- Threat Detection
+- Traffic Analysis
+- Security Monitoring
 
 ### Cloud
-- AWS IAM
+
+- AWS
+- IAM
 - EC2
 - VPC
 - Security Groups
 
-### Programming
+### Operating Systems
 
-Currently learning:
+- Kali Linux
+- Ubuntu Linux
+- Windows
 
-- Python
-- Bash
+### Tools
 
----
-
-## Current Portfolio Projects
-
-- Cybersecurity Portfolio
-- Packet Tracer Labs
-- Networking Projects
-- Kali Linux Notes
-- Nmap Labs
-- Wireshark Analysis
-- AWS Cloud Security
-- Risk Assessments
-- Technical Writeups
+- Git
+- GitHub
+- VirtualBox
 
 ---
 
-## Currently Working On
+## 📜 Certifications
 
-- Building a Cybersecurity Portfolio
-- Cisco Packet Tracer Labs
-- AWS Cloud Training
-- Linux Administration
-- Network Security Labs
-- Vulnerability Assessments
-- GitHub Portfolio Development
+### Completed
 
----
-
-## Career Goal
-
-To begin my professional career as a Cybersecurity Analyst where I can continue learning while helping organisations improve their security posture.
+- ✅ AWS AI Practitioner Challenge (Udacity)
+- ✅ Fortinet Certified Fundamentals in Cybersecurity
+- ✅ Fortinet – Getting Started in Cybersecurity
+- ✅ Fortinet – Introduction to the Threat Landscape
+- ✅ Fortinet – Network Fundamentals
+- ✅ Fortinet – Technical Introduction to Cybersecurity
+- ✅ Lean Six Sigma White Belt
+- ✅ Lean Six Sigma Yellow Belt
+- ✅ Construction Project Management (UCT GetSmarter)
 
 ---
 
-Thanks for visiting my profile.
+## 🎯 Certification Goals
+
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+- Cisco CCNA
+
 ---
 
-## GitHub Statistics
+## 📈 Learning Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuthandoYekani&show_icons=true)
+```text
+Networking
+      ↓
+Enterprise Security
+      ↓
+Packet Analysis
+      ↓
+Intrusion Detection
+      ↓
+Cloud Security
+      ↓
+Security Automation
+      ↓
+Digital Forensics
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoYekani&layout=compact)
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuthandoYekani&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LuthandoYekani&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoYekani&layout=compact&theme=github_dark)
+
+---
+
+## 🌐 Connect With Me
+
+**LinkedIn**
+
+https://www.linkedin.com/in/luthando-yekani-104a3b382
+
+**GitHub**
+
+https://github.com/LuthandoYekani
+
+---
+
+## 💡 Motto
+
+> "Continuous learning, practical experience, and disciplined documentation are the foundation of professional cybersecurity."
+
+---
+
+⭐ Thanks for visiting my profile!
