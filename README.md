@@ -1,10 +1,26 @@
-# Hi there, I'm Luthando Yekani 👋
+<p align="center">
+  <img src="images/github-banner.png" alt="Luthando Yekani GitHub Banner" width="100%">
+</p>
+**👋 Welcome to My GitHub**
 
-## Cybersecurity | Artificial Intelligence | Cloud | Automation
+## Luthando Yekani
+
+### Cybersecurity • Artificial Intelligence • Cloud • Automation
 
 I am an aspiring Cybersecurity professional with a strong interest in AI-powered security, cloud technologies, networking, and automation.
 
 My goal is to build practical solutions that combine cybersecurity best practices with artificial intelligence to solve real-world problems.
+
+---
+
+## 📌 Portfolio Highlights
+
+- 🛡️ AI-Powered Cybersecurity Solutions
+- 🤖 Intelligent Workflow Automation
+- ☁️ AWS Cloud & Generative AI
+- 🌐 Enterprise Networking
+- 📜 Professional Certifications
+- 📚 Continuous Learning
 
 ---
 
