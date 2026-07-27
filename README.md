@@ -149,6 +149,7 @@ A collection of AI applications and case studies built using AWS PartyRock.
 
 - LinkedIn: https://www.linkedin.com/in/luthando-yekani-104a3b382
 - Email: yek.trading@gmail.com
+- GitHub: https://github.com/LuthandoYekani
 
 ---
 
