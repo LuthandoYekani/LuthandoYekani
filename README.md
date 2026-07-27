@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/github-banner.png" alt="Luthando Yekani GitHub Banner" width="100%">
 </p>
-**👋 Welcome to My GitHub**
+Welcome to My Github
 
 ## Luthando Yekani
 
