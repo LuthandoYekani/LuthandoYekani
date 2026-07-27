@@ -1,169 +1,155 @@
-<h1 align="center">Hi 👋, I'm Luthando Yekani</h1>
+# Hi there, I'm Luthando Yekani 👋
 
-<h3 align="center">Aspiring Cybersecurity Analyst | Networking | Cloud Security | Linux | AWS</h3>
+## Cybersecurity | Artificial Intelligence | Cloud | Automation
 
-<p align="center">
-Building practical cybersecurity skills through hands-on laboratories, enterprise networking projects, cloud security, and technical documentation.
-</p>
+I am an aspiring Cybersecurity professional with a strong interest in AI-powered security, cloud technologies, networking, and automation.
 
----
-
-## 👨‍💻 About Me
-
-- 🇿🇦 Based in South Africa
-- 🛡️ Aspiring Cybersecurity Analyst
-- 🌐 Passionate about Network Security and Cloud Security
-- ☁️ Currently expanding my AWS security knowledge
-- 🐧 Daily Linux user (Kali & Ubuntu)
-- 📚 Always learning through practical labs and real-world projects
+My goal is to build practical solutions that combine cybersecurity best practices with artificial intelligence to solve real-world problems.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Featured Projects
 
-- Security Operations Centre (SOC)
+## 🛡️ CyberGuardian AI Pro
+
+AI-powered phishing analysis and cybersecurity awareness platform built with AWS PartyRock.
+
+**Highlights**
+
+- AI-powered phishing detection
+- Threat analysis
+- Risk scoring
+- Personalized security awareness training
+
+---
+
+## 🤖 AI SOC Analyst
+
+Evidence-based Security Operations Centre (SOC) assistant built with n8n and Google Gemini.
+
+**Highlights**
+
+- AI incident analysis
+- MITRE ATT&CK mapping
+- Executive reports
+- Automated workflows
+
+---
+
+## 🎫 AI Support Ticket Assistant
+
+AI-powered IT support automation workflow.
+
+**Highlights**
+
+- Ticket categorisation
+- AI-generated responses
+- Workflow automation
+- Knowledge base integration
+
+---
+
+## 🌐 Enterprise Full Mesh Network
+
+Cisco Packet Tracer enterprise networking project.
+
+**Highlights**
+
+- Four-router full mesh
+- Static routing
+- Network security
+- Enterprise LAN design
+
+---
+
+## ☁️ AWS PartyRock Projects
+
+A collection of AI applications and case studies built using AWS PartyRock.
+
+---
+
+# 📜 Professional Certifications
+
+- AWS AI Practitioner
+- Fortinet Certified Fundamentals in Cybersecurity
+- Fortinet Network Fundamentals
+- Fortinet Threat Landscape
+- Fortinet Technical Introduction to Cybersecurity
+- Lean Six Sigma White Belt
+- Lean Six Sigma Yellow Belt
+- UCT Construction Project Management
+
+---
+
+# 💻 Technical Skills
+
+## Cybersecurity
+
+- Threat Analysis
+- Security Awareness
+- SOC Fundamentals
 - Network Security
-- Threat Detection
-- Cloud Security (AWS)
-- Digital Forensics
-- Python for Cybersecurity
-- Security Automation
+- Risk Assessment
 
----
+## Networking
 
-## 📂 Featured Repository
-
-### 🛡️ Cybersecurity Portfolio
-
-A growing collection of practical cybersecurity projects including:
-
-- 🌐 Enterprise Full Mesh Network
-- 🔒 Enterprise VLAN Setup & Network Security
-- 📡 Wireshark Network Traffic Analysis
-- 🛡️ IDS & ACL Security
-- ☁️ AWS Cloud Security Labs *(In Progress)*
-- 🔍 Nmap Reconnaissance Labs *(In Progress)*
-
-➡️ **Repository**
-
-https://github.com/LuthandoYekani/Cybersecurity-Portfolio
-
----
-
-## 💼 Technical Skills
-
-### Networking
-
-- Cisco Packet Tracer
+- Cisco Networking
+- Packet Tracer
 - Routing & Switching
 - VLANs
 - Static Routing
-- ACLs
-- Port Security
-- SSH
 
-### Cybersecurity
+## Artificial Intelligence
 
-- Wireshark
-- Snort IDS
-- Nmap
-- Threat Detection
-- Traffic Analysis
-- Security Monitoring
+- Prompt Engineering
+- Generative AI
+- AI Automation
+- AWS PartyRock
+- Google Gemini
 
-### Cloud
+## Cloud
 
 - AWS
-- IAM
-- EC2
-- VPC
-- Security Groups
+- Amazon Bedrock
 
-### Operating Systems
+## Automation
 
-- Kali Linux
-- Ubuntu Linux
-- Windows
+- n8n
+- Workflow Automation
 
-### Tools
+---
 
+# 🛠 Technologies
+
+- Python (Learning)
 - Git
 - GitHub
-- VirtualBox
+- Cisco Packet Tracer
+- Kali Linux
+- Wireshark
+- Nmap
+- AWS
+- Google Gemini
+- n8n
 
 ---
 
-## 📜 Certifications
+# 🌱 Currently Learning
 
-### Completed
-
-- ✅ AWS AI Practitioner Challenge (Udacity)
-- ✅ Fortinet Certified Fundamentals in Cybersecurity
-- ✅ Fortinet – Getting Started in Cybersecurity
-- ✅ Fortinet – Introduction to the Threat Landscape
-- ✅ Fortinet – Network Fundamentals
-- ✅ Fortinet – Technical Introduction to Cybersecurity
-- ✅ Lean Six Sigma White Belt
-- ✅ Lean Six Sigma Yellow Belt
-- ✅ Construction Project Management (UCT GetSmarter)
+- SOC Operations
+- AWS Cloud Security
+- Threat Hunting
+- Incident Response
+- AI Security
+- Python for Cybersecurity
 
 ---
 
-## 🎯 Certification Goals
+# 📫 Connect With Me
 
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
-- CompTIA Security+
-- Cisco CCNA
+- LinkedIn: https://www.linkedin.com/in/luthando-yekani-104a3b382
+- Email: yek.trading@gmail.com
 
 ---
 
-## 📈 Learning Journey
-
-```text
-Networking
-      ↓
-Enterprise Security
-      ↓
-Packet Analysis
-      ↓
-Intrusion Detection
-      ↓
-Cloud Security
-      ↓
-Security Automation
-      ↓
-Digital Forensics
-```
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuthandoYekani&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LuthandoYekani&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoYekani&layout=compact&theme=github_dark)
-
----
-
-## 🌐 Connect With Me
-
-**LinkedIn**
-
-https://www.linkedin.com/in/luthando-yekani-104a3b382
-
-**GitHub**
-
-https://github.com/LuthandoYekani
-
----
-
-## 💡 Motto
-
-> "Continuous learning, practical experience, and disciplined documentation are the foundation of professional cybersecurity."
-
----
-
-⭐ Thanks for visiting my profile!
+> *"Continuous learning, practical projects, and real-world problem solving."*
