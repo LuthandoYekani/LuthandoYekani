@@ -1,172 +1,297 @@
 <p align="center">
   <img src="images/github-banner.png" alt="Luthando Yekani GitHub Banner" width="100%">
 </p>
-Welcome to My Github
 
-## Luthando Yekani
+<h1 align="center">Hi, I'm Luthando Yekani 👋</h1>
 
-### Cybersecurity • Artificial Intelligence • Cloud • Automation
+<h3 align="center">
+Cybersecurity Analyst • AI & Automation Enthusiast • Cloud Security • Enterprise Networking
+</h3>
 
-I am an aspiring Cybersecurity professional with a strong interest in AI-powered security, cloud technologies, networking, and automation.
-
-My goal is to build practical solutions that combine cybersecurity best practices with artificial intelligence to solve real-world problems.
+<p align="center">
+Building practical cybersecurity solutions through hands-on projects, enterprise documentation, automation, and continuous learning.
+</p>
 
 ---
 
-## 📌 Portfolio Highlights
+# 👨‍💻 About Me
 
-- 🛡️ AI-Powered Cybersecurity Solutions
-- 🤖 Intelligent Workflow Automation
-- ☁️ AWS Cloud & Generative AI
+I am an aspiring **Cybersecurity Analyst** from South Africa with a passion for protecting digital infrastructure through practical, hands-on experience.
+
+My interests span:
+
+- 🛡️ Cybersecurity Operations (SOC)
 - 🌐 Enterprise Networking
-- 📜 Professional Certifications
-- 📚 Continuous Learning
+- ☁️ Cloud Security (AWS)
+- 🤖 Artificial Intelligence & Automation
+- 🐧 Linux Administration
+- 📊 Cybersecurity Governance
+- 🔍 Threat Detection & Incident Response
+
+I enjoy building real-world projects that combine technical implementation with professional documentation and security best practices.
+
+---
+
+# 📊 GitHub Snapshot
+
+| Category | Current Progress |
+|----------|-----------------:|
+| Public Projects | Growing |
+| Enterprise Reports | 10+ |
+| Networking Labs | 10+ |
+| AI Automation Workflows | Multiple |
+| Governance Projects | Complete |
+| Portfolio Status | 🚀 Active Development |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡️ CyberGuardian AI Pro
+## 🤖 AI SOC Analyst
 
-AI-powered phishing analysis and cybersecurity awareness platform built with AWS PartyRock.
+Evidence-based Security Operations Centre (SOC) assistant built using **n8n** and **Google Gemini**.
 
-**Highlights**
+### Highlights
 
-- AI-powered phishing detection
-- Threat analysis
-- Risk scoring
-- Personalized security awareness training
+- AI-assisted incident analysis
+- MITRE ATT&CK mapping
+- Executive incident reports
+- Workflow automation
+- Security operations support
 
 ---
 
-## 🤖 AI SOC Analyst
+## 🛡️ CyberGuardian AI Pro
 
-Evidence-based Security Operations Centre (SOC) assistant built with n8n and Google Gemini.
+An AI-powered phishing detection and cybersecurity awareness platform developed with **AWS PartyRock**.
 
-**Highlights**
+### Highlights
 
-- AI incident analysis
-- MITRE ATT&CK mapping
-- Executive reports
-- Automated workflows
+- Phishing email analysis
+- AI threat scoring
+- Personalized awareness training
+- Security recommendations
 
 ---
 
 ## 🎫 AI Support Ticket Assistant
 
-AI-powered IT support automation workflow.
+AI-driven IT support automation workflow built with **n8n**.
 
-**Highlights**
+### Highlights
 
-- Ticket categorisation
+- Automated ticket classification
 - AI-generated responses
 - Workflow automation
 - Knowledge base integration
 
 ---
 
-## 🌐 Enterprise Full Mesh Network
+## 🌐 Enterprise Networking Portfolio
 
-Cisco Packet Tracer enterprise networking project.
+Professional Cisco networking laboratories featuring secure enterprise infrastructure.
 
-**Highlights**
+### Includes
 
-- Four-router full mesh
-- Static routing
-- Network security
-- Enterprise LAN design
-
----
-
-## ☁️ AWS PartyRock Projects
-
-A collection of AI applications and case studies built using AWS PartyRock.
+- Enterprise Full Mesh Network
+- VLAN Security
+- SSH Hardening
+- ACL Implementation
+- Port Security
+- Static Routing
 
 ---
 
-# 📜 Professional Certifications
+## 📋 Cybersecurity Governance Portfolio
 
-- AWS AI Practitioner
-- Fortinet Certified Fundamentals in Cybersecurity
-- Fortinet Network Fundamentals
-- Fortinet Threat Landscape
-- Fortinet Technical Introduction to Cybersecurity
-- Lean Six Sigma White Belt
-- Lean Six Sigma Yellow Belt
-- UCT Construction Project Management
+Enterprise governance documentation aligned with recognised cybersecurity frameworks.
+
+### Includes
+
+- Security Controls aligned to NIST CSF
+- Enterprise Cybersecurity Policy
+- Cybersecurity Governance KPI Strategy
 
 ---
 
-# 💻 Technical Skills
+## 📡 Network Traffic Analysis
+
+Practical Wireshark investigations and protocol analysis.
+
+### Includes
+
+- ARP Analysis
+- ICMP Analysis
+- Protocol Inspection
+- Network Troubleshooting
+- Security Investigations
+
+---
+
+# 🛠 Technical Skills
 
 ## Cybersecurity
 
-- Threat Analysis
-- Security Awareness
-- SOC Fundamentals
+- Security Operations Centre (SOC)
 - Network Security
+- Threat Detection
+- Incident Response
 - Risk Assessment
+- Security Governance
+- Security Policies
+- Security Metrics
 
 ## Networking
 
 - Cisco Networking
-- Packet Tracer
 - Routing & Switching
 - VLANs
 - Static Routing
+- ACLs
+- Port Security
+- SSH
+- Syslog
 
 ## Artificial Intelligence
 
 - Prompt Engineering
 - Generative AI
-- AI Automation
-- AWS PartyRock
 - Google Gemini
+- AWS PartyRock
+- AI Security
+- AI Workflow Design
 
 ## Cloud
 
 - AWS
+- IAM
+- EC2
+- VPC
+- Security Groups
 - Amazon Bedrock
+
+## Linux
+
+- Kali Linux
+- Ubuntu Linux
+- Bash
+- Linux Networking
+- Command Line
 
 ## Automation
 
 - n8n
 - Workflow Automation
+- AI Agents
+
+---
+
+# 📜 Certifications
+
+## Completed
+
+- ✅ AWS AI Practitioner Challenge (Udacity)
+- ✅ Fortinet Certified Fundamentals in Cybersecurity
+- ✅ Fortinet – Getting Started in Cybersecurity
+- ✅ Fortinet – Introduction to the Threat Landscape
+- ✅ Fortinet – Network Fundamentals
+- ✅ Fortinet – Technical Introduction to Cybersecurity
+- ✅ Lean Six Sigma White Belt
+- ✅ Lean Six Sigma Yellow Belt
+- ✅ Construction Project Management (University of Cape Town – GetSmarter)
+
+---
+
+## Currently Learning
+
+- Linux Administration
+- AWS Cloud Security
+- Python for Cybersecurity
+- Security Automation
+- Digital Forensics
+- Threat Hunting
+
+---
+
+## 2026 Learning Roadmap
+
+- Linux Administration
+- Vulnerability Assessment
+- Active Directory
+- AWS Security
+- Python Development
+- Security Automation
+- Digital Forensics
+- Blue Team Operations
+
+---
+
+# 📈 Learning Journey
+
+```text
+Networking
+      ↓
+Enterprise Security
+      ↓
+Cybersecurity Governance
+      ↓
+Artificial Intelligence
+      ↓
+Cloud Security
+      ↓
+Linux Administration
+      ↓
+Security Automation
+      ↓
+Threat Detection
+      ↓
+Digital Forensics
+```
 
 ---
 
 # 🛠 Technologies
 
-- Python (Learning)
-- Git
-- GitHub
 - Cisco Packet Tracer
+- Cisco IOS
 - Kali Linux
+- Ubuntu Linux
 - Wireshark
+- Snort IDS
 - Nmap
 - AWS
+- Amazon Bedrock
 - Google Gemini
 - n8n
-
----
-
-# 🌱 Currently Learning
-
-- SOC Operations
-- AWS Cloud Security
-- Threat Hunting
-- Incident Response
-- AI Security
-- Python for Cybersecurity
+- Git
+- GitHub
 
 ---
 
 # 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/luthando-yekani-104a3b382
-- Email: yek.trading@gmail.com
-- GitHub: https://github.com/LuthandoYekani
+**LinkedIn**
+
+https://www.linkedin.com/in/luthando-yekani-104a3b382
+
+**GitHub**
+
+https://github.com/LuthandoYekani
+
+**Email**
+
+yek.trading@gmail.com
 
 ---
 
-> *"Continuous learning, practical projects, and real-world problem solving."*
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuthandoYekani&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoYekani&layout=compact&theme=github_dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuthandoYekani&theme=github-dark)
+
+---
+
+> **"I believe the best way to learn cybersecurity is by building, documenting, automating, and continuously improving real-world solutions."**
