@@ -5,70 +5,76 @@
 <h1 align="center">Hi, I'm Luthando Yekani 👋</h1>
 
 <h3 align="center">
-Cybersecurity Analyst • AI & Automation Enthusiast • Cloud Security • Enterprise Networking
+Cybersecurity • Artificial Intelligence • Cloud • Automation
 </h3>
 
 <p align="center">
-Building practical cybersecurity solutions through hands-on projects, enterprise documentation, automation, and continuous learning.
+Building intelligent, secure and automated solutions through practical engineering projects, enterprise documentation and continuous learning.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am an aspiring **Cybersecurity Analyst** from South Africa with a passion for protecting digital infrastructure through practical, hands-on experience.
+I'm a cybersecurity and automation enthusiast from South Africa focused on designing practical solutions for real operational challenges.
 
-My interests span:
+My portfolio combines cybersecurity, networking, cloud technologies and artificial intelligence to simulate enterprise environments and demonstrate production-style engineering practices.
 
-- 🛡️ Cybersecurity Operations (SOC)
+Rather than focusing only on theory, I enjoy building complete solutions—from design and implementation to testing, documentation and continuous improvement.
+
+My current areas of focus include:
+
+- 🛡️ Security Operations (SOC)
+- 🤖 AI Operations (AIOps)
 - 🌐 Enterprise Networking
-- ☁️ Cloud Security (AWS)
-- 🤖 Artificial Intelligence & Automation
+- ☁️ AWS Cloud Security
+- 🔄 Workflow Automation
 - 🐧 Linux Administration
 - 📊 Cybersecurity Governance
-- 🔍 Threat Detection & Incident Response
-
-I enjoy building real-world projects that combine technical implementation with professional documentation and security best practices.
-
----
-
-# 📊 GitHub Snapshot
-
-| Category | Current Progress |
-|----------|-----------------:|
-| Public Projects | Growing |
-| Enterprise Reports | 10+ |
-| Networking Labs | 10+ |
-| AI Automation Workflows | Multiple |
-| Governance Projects | Complete |
-| Portfolio Status | 🚀 Active Development |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI SOC Analyst
+## 🚨 AI Operations Monitoring Centre *(NEW)*
 
-Evidence-based Security Operations Centre (SOC) assistant built using **n8n** and **Google Gemini**.
+AI-powered operational monitoring platform built with **n8n** and **Google Gemini**.
 
 ### Highlights
 
-- AI-assisted incident analysis
+- AI-powered workflow monitoring
+- Automated incident generation
+- Root cause analysis
+- Business impact assessment
+- Structured JSON reporting
+- Decision engine
+- Prompt engineering
+- Production documentation
+
+---
+
+## 🤖 AI SOC Analyst
+
+Evidence-based Security Operations Centre assistant using **Google Gemini** and **n8n**.
+
+### Highlights
+
+- Incident investigation
 - MITRE ATT&CK mapping
-- Executive incident reports
-- Workflow automation
-- Security operations support
+- Executive reporting
+- Threat analysis
+- SOC workflow automation
 
 ---
 
 ## 🛡️ CyberGuardian AI Pro
 
-An AI-powered phishing detection and cybersecurity awareness platform developed with **AWS PartyRock**.
+AWS PartyRock application for phishing detection and security awareness.
 
 ### Highlights
 
-- Phishing email analysis
-- AI threat scoring
+- AI phishing detection
+- Threat scoring
 - Personalized awareness training
 - Security recommendations
 
@@ -76,92 +82,90 @@ An AI-powered phishing detection and cybersecurity awareness platform developed 
 
 ## 🎫 AI Support Ticket Assistant
 
-AI-driven IT support automation workflow built with **n8n**.
+AI-powered customer support workflow automation.
 
 ### Highlights
 
-- Automated ticket classification
+- Ticket classification
+- Intelligent routing
 - AI-generated responses
-- Workflow automation
 - Knowledge base integration
 
 ---
 
 ## 🌐 Enterprise Networking Portfolio
 
-Professional Cisco networking laboratories featuring secure enterprise infrastructure.
+Enterprise Cisco networking projects demonstrating secure infrastructure deployment.
 
 ### Includes
 
 - Enterprise Full Mesh Network
 - VLAN Security
-- SSH Hardening
 - ACL Implementation
-- Port Security
+- SSH Hardening
 - Static Routing
+- Port Security
 
 ---
 
 ## 📋 Cybersecurity Governance Portfolio
 
-Enterprise governance documentation aligned with recognised cybersecurity frameworks.
+Professional governance documentation aligned with industry frameworks.
 
 ### Includes
 
-- Security Controls aligned to NIST CSF
-- Enterprise Cybersecurity Policy
-- Cybersecurity Governance KPI Strategy
+- Enterprise Security Policies
+- NIST Cybersecurity Framework
+- Security Controls
+- Governance KPIs
+- Risk Assessments
 
 ---
 
-## 📡 Network Traffic Analysis
+# 📊 Portfolio Snapshot
 
-Practical Wireshark investigations and protocol analysis.
-
-### Includes
-
-- ARP Analysis
-- ICMP Analysis
-- Protocol Inspection
-- Network Troubleshooting
-- Security Investigations
+| Area | Status |
+|---------------------------|-------------|
+| AI Automation Projects | ✅ Growing |
+| Enterprise Networking Labs | ✅ Complete |
+| Cybersecurity Governance | ✅ Complete |
+| AWS AI Applications | ✅ Complete |
+| Security Documentation | ✅ Active |
+| Workflow Automation | ✅ Active |
+| GitHub Portfolio | 🚀 Continuously Improving |
 
 ---
 
 # 🛠 Technical Skills
 
-## Cybersecurity
+### Cybersecurity
 
-- Security Operations Centre (SOC)
-- Network Security
+- Security Operations (SOC)
 - Threat Detection
 - Incident Response
-- Risk Assessment
+- Network Security
 - Security Governance
+- Risk Assessment
 - Security Policies
-- Security Metrics
 
-## Networking
+### Artificial Intelligence
 
-- Cisco Networking
-- Routing & Switching
-- VLANs
-- Static Routing
-- ACLs
-- Port Security
-- SSH
-- Syslog
-
-## Artificial Intelligence
-
-- Prompt Engineering
-- Generative AI
 - Google Gemini
 - AWS PartyRock
-- AI Security
+- Prompt Engineering
 - AI Workflow Design
+- AI Operations (AIOps)
+- Structured AI Outputs
 
-## Cloud
+### Automation
+
+- n8n
+- Workflow Automation
+- AI Agents
+- Decision Automation
+- JSON Processing
+
+### Cloud
 
 - AWS
 - IAM
@@ -170,83 +174,48 @@ Practical Wireshark investigations and protocol analysis.
 - Security Groups
 - Amazon Bedrock
 
-## Linux
+### Networking
+
+- Cisco IOS
+- Routing & Switching
+- VLANs
+- ACLs
+- SSH
+- Syslog
+- Enterprise Networking
+
+### Linux
 
 - Kali Linux
-- Ubuntu Linux
+- Ubuntu
 - Bash
 - Linux Networking
-- Command Line
-
-## Automation
-
-- n8n
-- Workflow Automation
-- AI Agents
 
 ---
 
 # 📜 Certifications
 
-## Completed
-
-- ✅ AWS AI Practitioner Challenge (Udacity)
-- ✅ Fortinet Certified Fundamentals in Cybersecurity
-- ✅ Fortinet – Getting Started in Cybersecurity
-- ✅ Fortinet – Introduction to the Threat Landscape
-- ✅ Fortinet – Network Fundamentals
-- ✅ Fortinet – Technical Introduction to Cybersecurity
-- ✅ Lean Six Sigma White Belt
-- ✅ Lean Six Sigma Yellow Belt
-- ✅ Construction Project Management (University of Cape Town – GetSmarter)
+- AWS AI Practitioner Challenge
+- Fortinet Certified Fundamentals in Cybersecurity
+- Getting Started in Cybersecurity
+- Introduction to the Threat Landscape
+- Network Fundamentals
+- Technical Introduction to Cybersecurity
+- Lean Six Sigma White Belt
+- Lean Six Sigma Yellow Belt
+- Construction Project Management (UCT)
 
 ---
 
-## Currently Learning
+# 📚 Currently Learning
 
-- Linux Administration
 - AWS Cloud Security
+- Linux Administration
 - Python for Cybersecurity
 - Security Automation
-- Digital Forensics
 - Threat Hunting
-
----
-
-## 2026 Learning Roadmap
-
-- Linux Administration
-- Vulnerability Assessment
-- Active Directory
-- AWS Security
-- Python Development
-- Security Automation
 - Digital Forensics
-- Blue Team Operations
-
----
-
-# 📈 Learning Journey
-
-```text
-Networking
-      ↓
-Enterprise Security
-      ↓
-Cybersecurity Governance
-      ↓
-Artificial Intelligence
-      ↓
-Cloud Security
-      ↓
-Linux Administration
-      ↓
-Security Automation
-      ↓
-Threat Detection
-      ↓
-Digital Forensics
-```
+- Active Directory
 
 ---
 
@@ -254,17 +223,45 @@ Digital Forensics
 
 - Cisco Packet Tracer
 - Cisco IOS
-- Kali Linux
-- Ubuntu Linux
-- Wireshark
-- Snort IDS
-- Nmap
+- n8n
+- Google Gemini
 - AWS
 - Amazon Bedrock
-- Google Gemini
-- n8n
+- Kali Linux
+- Ubuntu
+- Wireshark
+- Nmap
 - Git
 - GitHub
+
+---
+
+# 📈 Engineering Journey
+
+```text
+Enterprise Networking
+          │
+          ▼
+Cybersecurity
+          │
+          ▼
+Governance & Risk
+          │
+          ▼
+Artificial Intelligence
+          │
+          ▼
+Cloud Security
+          │
+          ▼
+Workflow Automation
+          │
+          ▼
+AI Operations (AIOps)
+          │
+          ▼
+Security Engineering
+```
 
 ---
 
@@ -294,4 +291,4 @@ yek.trading@gmail.com
 
 ---
 
-> **"I believe the best way to learn cybersecurity is by building, documenting, automating, and continuously improving real-world solutions."**
+> **"Great cybersecurity professionals don't just learn technology—they build it, secure it, automate it and document it."**
