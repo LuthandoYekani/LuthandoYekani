@@ -9,18 +9,16 @@ Cybersecurity • Artificial Intelligence • Cloud • Automation
 </h3>
 
 <p align="center">
-Building intelligent, secure and automated solutions through practical engineering projects, enterprise documentation and continuous learning.
+Building intelligent, secure and automated solutions through practical engineering projects, enterprise networking, workflow automation and AI-powered operations.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a cybersecurity and automation enthusiast from South Africa focused on designing practical solutions for real operational challenges.
+I'm a cybersecurity and automation enthusiast from South Africa who enjoys solving operational problems with technology.
 
-My portfolio combines cybersecurity, networking, cloud technologies and artificial intelligence to simulate enterprise environments and demonstrate production-style engineering practices.
-
-Rather than focusing only on theory, I enjoy building complete solutions—from design and implementation to testing, documentation and continuous improvement.
+My portfolio focuses on designing practical, enterprise-inspired solutions that combine cybersecurity, artificial intelligence, cloud technologies and workflow automation. Every project is built as if it were destined for a production environment, with an emphasis on implementation, testing, documentation and continuous improvement.
 
 My current areas of focus include:
 
@@ -36,7 +34,7 @@ My current areas of focus include:
 
 # 🚀 Featured Projects
 
-## 🚨 AI Operations Monitoring Centre *(NEW)*
+## 🚨 [AI Operations Monitoring Centre](https://github.com/LuthandoYekani/AI-Operations-Monitoring-Centre)
 
 AI-powered operational monitoring platform built with **n8n** and **Google Gemini**.
 
@@ -47,15 +45,15 @@ AI-powered operational monitoring platform built with **n8n** and **Google Gemin
 - Root cause analysis
 - Business impact assessment
 - Structured JSON reporting
-- Decision engine
+- Intelligent decision engine
 - Prompt engineering
-- Production documentation
+- Production-ready documentation
 
 ---
 
-## 🤖 AI SOC Analyst
+## 🤖 [AI SOC Analyst](https://github.com/LuthandoYekani/AI-SOC-Analyst)
 
-Evidence-based Security Operations Centre assistant using **Google Gemini** and **n8n**.
+Evidence-based Security Operations Centre assistant built using **Google Gemini** and **n8n**.
 
 ### Highlights
 
@@ -67,35 +65,35 @@ Evidence-based Security Operations Centre assistant using **Google Gemini** and 
 
 ---
 
-## 🛡️ CyberGuardian AI Pro
+## 🛡️ [AWS PartyRock Projects](https://github.com/LuthandoYekani/AWS-PartyRock-Projects)
 
-AWS PartyRock application for phishing detection and security awareness.
+A collection of AI-powered applications developed using AWS PartyRock.
 
-### Highlights
+### Includes
 
-- AI phishing detection
-- Threat scoring
-- Personalized awareness training
-- Security recommendations
+- CyberGuardian AI Pro
+- AI Data Analysis Case Study
+- Prompt Engineering
+- AI Security Demonstrations
 
 ---
 
-## 🎫 AI Support Ticket Assistant
+## 🎫 [AI Support Ticket Assistant](https://github.com/LuthandoYekani/AI-Support-Ticket-Assistant)
 
-AI-powered customer support workflow automation.
+AI-driven customer support automation workflow built with **n8n**.
 
 ### Highlights
 
-- Ticket classification
-- Intelligent routing
+- Intelligent ticket classification
+- Automated routing
 - AI-generated responses
 - Knowledge base integration
 
 ---
 
-## 🌐 Enterprise Networking Portfolio
+## 🌐 [Enterprise Networking Portfolio](https://github.com/LuthandoYekani/Enterprise-Networking-Portfolio)
 
-Enterprise Cisco networking projects demonstrating secure infrastructure deployment.
+Enterprise Cisco networking laboratories demonstrating secure infrastructure deployment.
 
 ### Includes
 
@@ -108,56 +106,61 @@ Enterprise Cisco networking projects demonstrating secure infrastructure deploym
 
 ---
 
-## 📋 Cybersecurity Governance Portfolio
+## 📋 [Cybersecurity Portfolio](https://github.com/LuthandoYekani/Cybersecurity-Portfolio)
 
-Professional governance documentation aligned with industry frameworks.
+Professional cybersecurity documentation and governance portfolio.
 
 ### Includes
 
-- Enterprise Security Policies
 - NIST Cybersecurity Framework
-- Security Controls
+- Enterprise Security Policies
 - Governance KPIs
 - Risk Assessments
+- Security Controls
+- Wireshark Analysis
+- Kali Linux Notes
+- Nmap Labs
 
 ---
 
 # 📊 Portfolio Snapshot
 
 | Area | Status |
-|---------------------------|-------------|
+|------------------------------|:--------:|
 | AI Automation Projects | ✅ Growing |
+| AI Operations Projects | ✅ Complete |
 | Enterprise Networking Labs | ✅ Complete |
 | Cybersecurity Governance | ✅ Complete |
 | AWS AI Applications | ✅ Complete |
-| Security Documentation | ✅ Active |
 | Workflow Automation | ✅ Active |
+| Technical Documentation | ✅ Extensive |
 | GitHub Portfolio | 🚀 Continuously Improving |
 
 ---
 
 # 🛠 Technical Skills
 
-### Cybersecurity
+### 🛡️ Cybersecurity
 
 - Security Operations (SOC)
 - Threat Detection
 - Incident Response
 - Network Security
-- Security Governance
 - Risk Assessment
+- Security Governance
 - Security Policies
+- Security Controls
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 - Google Gemini
 - AWS PartyRock
 - Prompt Engineering
-- AI Workflow Design
 - AI Operations (AIOps)
+- AI Workflow Design
 - Structured AI Outputs
 
-### Automation
+### 🔄 Automation
 
 - n8n
 - Workflow Automation
@@ -165,7 +168,7 @@ Professional governance documentation aligned with industry frameworks.
 - Decision Automation
 - JSON Processing
 
-### Cloud
+### ☁️ Cloud
 
 - AWS
 - IAM
@@ -174,17 +177,17 @@ Professional governance documentation aligned with industry frameworks.
 - Security Groups
 - Amazon Bedrock
 
-### Networking
+### 🌐 Networking
 
 - Cisco IOS
+- Enterprise Networking
 - Routing & Switching
 - VLANs
 - ACLs
 - SSH
 - Syslog
-- Enterprise Networking
 
-### Linux
+### 🐧 Linux
 
 - Kali Linux
 - Ubuntu
@@ -195,15 +198,15 @@ Professional governance documentation aligned with industry frameworks.
 
 # 📜 Certifications
 
-- AWS AI Practitioner Challenge
-- Fortinet Certified Fundamentals in Cybersecurity
-- Getting Started in Cybersecurity
-- Introduction to the Threat Landscape
-- Network Fundamentals
-- Technical Introduction to Cybersecurity
-- Lean Six Sigma White Belt
-- Lean Six Sigma Yellow Belt
-- Construction Project Management (UCT)
+- ✅ AWS AI Practitioner Challenge
+- ✅ Fortinet Certified Fundamentals in Cybersecurity
+- ✅ Fortinet – Getting Started in Cybersecurity
+- ✅ Fortinet – Introduction to the Threat Landscape
+- ✅ Fortinet – Network Fundamentals
+- ✅ Fortinet – Technical Introduction to Cybersecurity
+- ✅ Lean Six Sigma White Belt
+- ✅ Lean Six Sigma Yellow Belt
+- ✅ Construction Project Management (University of Cape Town)
 
 ---
 
@@ -214,8 +217,8 @@ Professional governance documentation aligned with industry frameworks.
 - Python for Cybersecurity
 - Security Automation
 - Threat Hunting
-- Digital Forensics
 - Active Directory
+- Digital Forensics
 
 ---
 
@@ -223,10 +226,10 @@ Professional governance documentation aligned with industry frameworks.
 
 - Cisco Packet Tracer
 - Cisco IOS
-- n8n
 - Google Gemini
-- AWS
+- AWS PartyRock
 - Amazon Bedrock
+- n8n
 - Kali Linux
 - Ubuntu
 - Wireshark
@@ -291,4 +294,4 @@ yek.trading@gmail.com
 
 ---
 
-> **"Great cybersecurity professionals don't just learn technology—they build it, secure it, automate it and document it."**
+> **"Great engineers don't just learn technology—they build it, secure it, automate it and document it."**
